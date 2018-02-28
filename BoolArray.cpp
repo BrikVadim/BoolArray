@@ -1,5 +1,5 @@
 //
-// Copyright (c)  Vadim Brik (https://vadimbrik.ru)
+// Copyright (c) 2018 Vadim Brik (https://vadimbrik.ru)
 //
 // Project: BoolArray
 // Description: Class for storage of boolean values.
